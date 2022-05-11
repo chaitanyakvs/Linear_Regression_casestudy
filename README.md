@@ -5,5 +5,7 @@ In such an attempt, BoomBikes aspires to understand the demand for shared bikes 
 
 Approach:
 -> Develop a model based on the given data and find the variables, which are th demand for shared bikes with the independent variables
+
 -> Need to analyze the customers behaviour pattwern based on the data and the things expecting from the comapny.
+
 -> Design a model, to restore the company profits and help to understand the company according to the current market scenario 
